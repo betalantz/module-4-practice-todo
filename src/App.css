@@ -135,6 +135,8 @@ h5 {
   filter: brightness(1.2)
 }
 
+/* CSS below is only for the button on the deployed example which toggles the stretch features */
+
 button.toggle {
   position: absolute;
   top: 0.5rem;
